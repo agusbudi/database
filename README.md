@@ -6,3 +6,6 @@ Université d'Aix Marseille
 
 Odile PAPINI
 Agus Budi RAHARJO
+
+
+Pour ouvrir un fichier .mdj: http://staruml.io/
